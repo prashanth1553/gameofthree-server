@@ -31,7 +31,7 @@ public class SocketEndpoint {
 
 	private Session session;
 	private static final Set<SocketEndpoint> chatEndpoints = new HashSet<>();
-	private static HashMap<String, String> users = new HashMap<>();
+	private static final HashMap<String, String> users = new HashMap<>();
 	private static final Random rand = new Random();
 	private static final int UPPER_BOUND = 1000;
 
