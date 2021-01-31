@@ -15,5 +15,7 @@
   **Opponent move : Added number is -1, Resulting Number is 177.** <br/>
   A. You can answer it by following game rules  based on Resulting Number given by opponent move <br/>
   B. You can say autmatic **AUTOMATIC** then the programs responds to the opponent automatically. <br/>
+Below screenshot shows how game proceeds.
+![player_1_moves.png](https://github.com/prashanth1553/gameofthree-server/blob/master/player_1_moves.png)  
+![player_2_moves.png](https://github.com/prashanth1553/gameofthree-server/blob/master/player_2_moves.png) 
 
-[player_1_moves.png](https://github.com/prashanth1553/gameofthree-server/blob/master/player_1_moves.png) and [player_2_moves.png](https://github.com/prashanth1553/gameofthree-server/blob/master/player_2_moves.png) screenshot shows how game proceeds.
