@@ -16,3 +16,5 @@ Steps to play this game(AUTOMATIC and Manual Mode Supported)
   "Opponent move : Added number is -1, Resulting Number is 177."
   A. You can answer it by following game rules  based on Resulting Number given by opponent move
   B. You can say autmatic "AUTOMATIC" then the programs responds to the opponent automatically.
+
+player_1_moves.png and player_2_moves.png screenshot shows how game proceeds.
