@@ -13,6 +13,6 @@ Steps to play this game(AUTOMATIC and Manual Mode Supported)
 1. Launch Game of three server and launch https://github.com/prashanth1553/gameofthree-client/blob/master/README.md client in atleast two windows
 2. When there are two players are joined, the server starts the game. Each player will get a message saying "Game has started.."
 3. In your window when you see your oppoent move like below
-   "Opponent move : Added number is -1, Resulting Number is 177."
-   A. You can answer it by following game rules  based on Resulting Number
-   B. You can say autmatic "AUTOMATIC" then the programs responds to the opponent automatically.
+  "Opponent move : Added number is -1, Resulting Number is 177."
+  A. You can answer it by following game rules  based on Resulting Number given by opponent move
+  B. You can say autmatic "AUTOMATIC" then the programs responds to the opponent automatically.
